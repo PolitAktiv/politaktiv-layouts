@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<project name="politaktiv-layouts" basedir="." default="deploy">
+	<property name="plugin.version" value="2" />
+
+	<import file="../build-common-layouttpl.xml" />
+</project>

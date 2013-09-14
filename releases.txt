@@ -1,0 +1,12 @@
+politaktiv-layouts
+==================
+ReleaseNotes:
+
+0.2 - 14.09.2012
+----------------
+* LiferayVersion 6.1 fixed
+
+
+0.1 - 29.07.2011
+----------------
+* renamed Author & Layouts
