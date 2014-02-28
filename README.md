@@ -1,4 +1,1 @@
-politaktiv-default-theme
-========================
-
-The PolitAktive theme
+politaktiv-layouts
