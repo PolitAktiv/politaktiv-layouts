@@ -2,7 +2,7 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
-6.2.3 - 27.02.2014
+6.2.0.3 - 27.02.2014
 ------------------
 * LiferayVersion 6.2 fixed
 * added 12 / 75 / 12 Layout
