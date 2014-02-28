@@ -1,3 +1,4 @@
+.gradle
 
 syntax: regexp
 ^docroot/WEB-INF/classes$
