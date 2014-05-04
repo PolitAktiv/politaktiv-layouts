@@ -4,43 +4,43 @@
 
 <layout-templates>
 	<custom>
-	    <layout-template id="politaktiv_12_75_12_layouttpl" name="PolitAktiv (12/75/12)">
+	    <layout-template id="politaktiv_12_75_12" name="PolitAktiv (12/75/12)">
 			<template-path>/politaktiv_12_75_12.tpl</template-path>
 			<wap-template-path>/politaktiv_12_75_12.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_12_75_12.png</thumbnail-path>
 		</layout-template>
 		
-		<layout-template id="politaktiv_25_50_25_layouttpl" name="PolitAktiv (25/50/25)">
+		<layout-template id="politaktiv_25_50_25" name="PolitAktiv (25/50/25)">
 			<template-path>/politaktiv_25_50_25.tpl</template-path>
 			<wap-template-path>/politaktiv_25_50_25.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_25_50_25.png</thumbnail-path>
 		</layout-template>
 		
-		<layout-template id="politaktiv_25_75_layouttpl" name="PolitAktiv (25/75)">
+		<layout-template id="politaktiv_25_75" name="PolitAktiv (25/75)">
 			<template-path>/politaktiv_25_75.tpl</template-path>
 			<wap-template-path>/politaktiv_25_75.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_25_75.png</thumbnail-path>
 		</layout-template>			
 	
-		<layout-template id="politaktiv_45_45_10_layouttpl" name="PolitAktiv (45/45/10)">
+		<layout-template id="politaktiv_45_45_10" name="PolitAktiv (45/45/10)">
 			<template-path>/politaktiv_45_45_10.tpl</template-path>
 			<wap-template-path>/politaktiv_45_45_10.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_45_45_10.png</thumbnail-path>
 		</layout-template>	
 		
-		<layout-template id="politaktiv_40_50_10_layouttpl" name="PolitAktiv (40/50/10)">
+		<layout-template id="politaktiv_40_50_10" name="PolitAktiv (40/50/10)">
 			<template-path>/politaktiv_40_50_10.tpl</template-path>
 			<wap-template-path>/politaktiv_40_50_10.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_40_50_10.png</thumbnail-path>
 		</layout-template>			
 	
-		<layout-template id="politaktiv_75_25_layouttpl" name="PolitAktiv (75/25)">
+		<layout-template id="politaktiv_75_25" name="PolitAktiv (75/25)">
 			<template-path>/politaktiv_75_25.tpl</template-path>
 			<wap-template-path>/politaktiv_75_25.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_75_25.png</thumbnail-path>
 		</layout-template>	
 	
-		<layout-template id="politaktiv_30_60_10_layouttpl" name="PolitAktiv (30/60/10)">
+		<layout-template id="politaktiv_30_60_10" name="PolitAktiv (30/60/10)">
 			<template-path>/politaktiv_30_60_10.tpl</template-path>
 			<wap-template-path>/politaktiv_30_60_10.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv_30_60_10.png</thumbnail-path>

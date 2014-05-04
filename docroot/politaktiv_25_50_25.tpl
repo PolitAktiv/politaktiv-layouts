@@ -1,13 +1,14 @@
-<div id="main-content" role="main">
-	<div class="portlet-layout">
-  	<div class="portlet-column" id="column-1" style="width:25%;min-width:25%">
-	    $processor.processColumn("column-1")
-		</div>
-		<div class="portlet-column" id="column-2" style="width:50%;min-width:50%">
-	    $processor.processColumn("column-2")
-		</div>
-		<div class="portlet-column" id="column-3" style="width:25%;min-width:25%">
-	    $processor.processColumn("column-3")
-		</div>
+<div class="politaktiv_25_50_25" id="main-content" role="main">
+  <div class="portlet-layout row-fluid">
+    <div class="portlet-column portlet-column-first span2" id="column-1">
+      $processor.processColumn("column-1", "portlet-column-content portlet-column-content-first")
+    </div>
+
+    <div class="portlet-column span4" id="column-2">
+      $processor.processColumn("column-2", "portlet-column-content")
+    </div>
+    <div class="portlet-column portlet-column-last span2" id="column-3">
+      $processor.processColumn("column-3", "portlet-column-content portlet-column-content-last")
+    </div>
   </div>
 </div>

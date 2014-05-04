@@ -3,7 +3,7 @@
 
 <plugin-package>
 	<name>PolitAktiv Layout Template Collection</name>	
-	<module-id>liferay/politaktiv-layouts/6.2.0.4/war</module-id>
+	<module-id>liferay/politaktiv-layouts/6.2.0.5/war</module-id>
 	<types>
 		<type>layout-template</type>
 	</types>
