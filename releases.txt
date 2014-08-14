@@ -2,6 +2,11 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
+6.2.1.5 - 14.08.2014
+--------------------
+* A-5 realisiert: 3 neue Layouts
+* Needs politaktiv-default-theme, because CSS necessairy for specifications 
+
 6.2.0.5 - 04.05.2014
 ------------------
 * Migrated all all Layouts to new LR6.2 way
