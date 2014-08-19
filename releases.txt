@@ -2,10 +2,15 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
+6.2.1.6 - 19.08.2014
+--------------------
+* added Thumbnails for new Layouts
+* bugfix: wap templates are available now
+
 6.2.1.5 - 14.08.2014
 --------------------
-* A-5 realisiert: 3 neue Layouts
-* Needs politaktiv-default-theme, because CSS necessairy for specifications 
+A-5 realisiert: 3 neue Layouts
+Needs politaktiv-default-theme, because CSS necessairy for specifications 
 
 6.2.0.5 - 04.05.2014
 ------------------
