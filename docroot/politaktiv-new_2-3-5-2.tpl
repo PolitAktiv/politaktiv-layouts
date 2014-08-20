@@ -1,11 +1,11 @@
 <div class="politaktiv-new_2-3-5-2" id="main-content" role="main">
 
 	<div class="portlet-layout row-fluid">
-		<div class="portlet-column portlet-column-first span2" id="column-1">
+		<div class="portlet-column portlet-column-first width2of12left" id="column-1">
 			$processor.processColumn("column-1", "portlet-column-content portlet-column-content-first")
 		</div>
 		
-		<div class="span8">	
+		<div class="width8of12 span8">	
 			
 			<div class="portlet-layout row-fluid">
 				<div class="portlet-column span12 id="column-2">
@@ -23,7 +23,7 @@
 				</div>
 			</div>		
 		</div>
-		<div class="portlet-column portlet-column-last span2" id="column-5">
+		<div class="portlet-column portlet-column-last width2of12right" id="column-5">
 			$processor.processColumn("column-5", "portlet-column-content portlet-column-content-last")
 		</div>
 	</div>
