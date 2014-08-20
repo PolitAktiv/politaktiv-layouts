@@ -2,6 +2,10 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
+6.2.1.7 - 19.08.2014
+--------------------
+* fixed width of 3 main columns
+
 6.2.1.6 - 19.08.2014
 --------------------
 * added Thumbnails for new Layouts
