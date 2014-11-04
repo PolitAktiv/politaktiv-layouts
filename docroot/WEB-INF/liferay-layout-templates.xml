@@ -4,64 +4,41 @@
 
 <layout-templates>
 	<custom>
-		<layout-template id="politaktiv-new_2-4-4-2" name="PolitAktiv (2-4-4-2)">
-			<template-path>/politaktiv-new_2-4-4-2.tpl</template-path>
-			<wap-template-path>/politaktiv-new_2-4-4-2.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv-new_2-4-4-2.png</thumbnail-path> <!-- Achtung, theoretisch falscher Thumbnail -->
+		<layout-template id="politaktiv-2-4-4-2-cross-grid" name="PolitAktiv (2-4-4-2) (incl. Querbalken)">
+			<template-path>/politaktiv-2-4-4-2-cross-grid.tpl</template-path>
+			<wap-template-path>/politaktiv-2-4-4-2-cross-grid.wap.tpl</wap-template-path>
+			<thumbnail-path>/politaktiv-2-4-4-2-cross-grid.png</thumbnail-path> 
 		</layout-template>
 		
-		<layout-template id="politaktiv-new_2-3-5-2" name="PolitAktiv (2-3-5-2)">
-			<template-path>/politaktiv-new_2-3-5-2.tpl</template-path>
-			<wap-template-path>/politaktiv-new_2-3-5-2.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv-new_2-3-5-2.png</thumbnail-path> <!-- Achtung, theoretisch falscher Thumbnail -->
+		<layout-template id="politaktiv-2-3-5-2-cross-grid" name="PolitAktiv (2-3-5-2) (incl. Querbalken)">
+			<template-path>/politaktiv-2-3-5-2-cross-grid.tpl</template-path>
+			<wap-template-path>/politaktiv-2-3-5-2-cross-grid.wap.tpl</wap-template-path>
+			<thumbnail-path>/politaktiv-2-3-5-2-cross-grid.png</thumbnail-path> 
 		</layout-template>
 		
-		<layout-template id="politaktiv-new_2-5-3-2" name="PolitAktiv (2-5-3-2)">
-			<template-path>/politaktiv-new_2-5-3-2.tpl</template-path>
-			<wap-template-path>/politaktiv-new_2-5-3-2.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv-new_2-5-3-2.png</thumbnail-path> <!-- Achtung, theoretisch falscher Thumbnail -->
-		</layout-template>
-	
-	    <layout-template id="politaktiv_12_75_12" name="PolitAktiv (12/75/12)">
-			<template-path>/politaktiv_12_75_12.tpl</template-path>
-			<wap-template-path>/politaktiv_12_75_12.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_12_75_12.png</thumbnail-path>
+		<layout-template id="politaktiv-2-5-3-2-cross-grid" name="PolitAktiv (2-5-3-2) (incl. Querbalken)">
+			<template-path>/politaktiv-2-5-3-2-cross-grid.tpl</template-path>
+			<wap-template-path>/politaktiv-2-5-3-2-cross-grid.wap.tpl</wap-template-path>
+			<thumbnail-path>/politaktiv-2-5-3-2-cross-grid.png</thumbnail-path> 
 		</layout-template>
 		
-		<layout-template id="politaktiv_25_50_25" name="PolitAktiv (25/50/25)">
-			<template-path>/politaktiv_25_50_25.tpl</template-path>
-			<wap-template-path>/politaktiv_25_50_25.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_25_50_25.png</thumbnail-path>
+		
+		<layout-template id="politaktiv-2-4-4-2-no-cross-grid" name="PolitAktiv (2-4-4-2) (ohne Querbalken)">
+			<template-path>/politaktiv-2-4-4-2-no-cross-grid.tpl</template-path>
+			<wap-template-path>/politaktiv-2-4-4-2-no-cross-grid.wap.tpl</wap-template-path>
+			<thumbnail-path>/politaktiv-2-4-4-2-no-cross-grid.png</thumbnail-path> 
 		</layout-template>
 		
-		<layout-template id="politaktiv_25_75" name="PolitAktiv (25/75)">
-			<template-path>/politaktiv_25_75.tpl</template-path>
-			<wap-template-path>/politaktiv_25_75.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_25_75.png</thumbnail-path>
-		</layout-template>			
-	
-		<layout-template id="politaktiv_45_45_10" name="PolitAktiv (45/45/10)">
-			<template-path>/politaktiv_45_45_10.tpl</template-path>
-			<wap-template-path>/politaktiv_45_45_10.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_45_45_10.png</thumbnail-path>
-		</layout-template>	
+		<layout-template id="politaktiv-2-3-5-2-no-cross-grid" name="PolitAktiv (2-3-5-2) (ohne Querbalken)">
+			<template-path>/politaktiv-2-3-5-2-no-cross-grid.tpl</template-path>
+			<wap-template-path>/politaktiv-2-3-5-2-no-cross-grid.wap.tpl</wap-template-path>
+			<thumbnail-path>/politaktiv-2-3-5-2-no-cross-grid.png</thumbnail-path> 
+		</layout-template>
 		
-		<layout-template id="politaktiv_40_50_10" name="PolitAktiv (40/50/10)">
-			<template-path>/politaktiv_40_50_10.tpl</template-path>
-			<wap-template-path>/politaktiv_40_50_10.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_40_50_10.png</thumbnail-path>
-		</layout-template>			
-	
-		<layout-template id="politaktiv_75_25" name="PolitAktiv (75/25)">
-			<template-path>/politaktiv_75_25.tpl</template-path>
-			<wap-template-path>/politaktiv_75_25.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_75_25.png</thumbnail-path>
-		</layout-template>	
-	
-		<layout-template id="politaktiv_30_60_10" name="PolitAktiv (30/60/10)">
-			<template-path>/politaktiv_30_60_10.tpl</template-path>
-			<wap-template-path>/politaktiv_30_60_10.wap.tpl</wap-template-path>
-			<thumbnail-path>/politaktiv_30_60_10.png</thumbnail-path>
-		</layout-template>	
+		<layout-template id="politaktiv-2-5-3-2-no-cross-grid" name="PolitAktiv (2-5-3-2) (ohne Querbalken)">
+			<template-path>/politaktiv-2-5-3-2-no-cross-grid.tpl</template-path>
+			<wap-template-path>/politaktiv-2-5-3-2-no-cross-grid.wap.tpl</wap-template-path>
+			<thumbnail-path>/politaktiv-2-5-3-2-no-cross-grid.png</thumbnail-path> 
+		</layout-template>	   
 	</custom>
 </layout-templates>
