@@ -2,6 +2,12 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
+6.2.1.8 - 04.11.2014
+--------------------
+* added 3 more templates
+* deleted older templates
+
+
 6.2.1.7 - 19.08.2014
 --------------------
 * fixed width of 3 main columns
