@@ -4,11 +4,6 @@
 
 <layout-templates>
 	<custom>
-	<layout-template id="politaktiv_12_75_12" name="PolitAktiv (12/75/12)">
-<template-path>/politaktiv_12_75_12.tpl</template-path>
-<wap-template-path>/politaktiv_12_75_12.wap.tpl</wap-template-path>
-<thumbnail-path>/politaktiv-2-4-4-2-cross-grid.png</thumbnail-path>
-</layout-template>
 		<layout-template id="politaktiv-new_2-4-4-2" name="PolitAktiv (2-4-4-2)">
 			<template-path>/politaktiv-2-4-4-2-cross-grid.tpl</template-path>
 			<wap-template-path>/politaktiv-2-4-4-2-cross-grid.wap.tpl</wap-template-path>
