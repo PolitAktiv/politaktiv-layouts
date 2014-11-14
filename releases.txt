@@ -2,6 +2,11 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
+6.2.1.8 - 14.11.2014
+--------------------
+* changed some Layout names
+
+
 6.2.1.8 - 04.11.2014
 --------------------
 * added 3 more templates
