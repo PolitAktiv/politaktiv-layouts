@@ -10,13 +10,13 @@
 			<thumbnail-path>/politaktiv-2-4-4-2-cross-grid.png</thumbnail-path> 
 		</layout-template>
 		
-		<layout-template id="politaktiv-new_2-3-5-2" name="PolitAktiv (2-4-4-2)">
+		<layout-template id="politaktiv-new_2-3-5-2" name="PolitAktiv (2-3-5-2)">
 			<template-path>/politaktiv-2-3-5-2-cross-grid.tpl</template-path>
 			<wap-template-path>/politaktiv-2-3-5-2-cross-grid.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv-2-3-5-2-cross-grid.png</thumbnail-path> 
 		</layout-template>
 		
-		<layout-template id="politaktiv-new_2-5-3-2" name="PolitAktiv (2-4-4-2)">
+		<layout-template id="politaktiv-new_2-5-3-2" name="PolitAktiv (2-5-3-2)">
 			<template-path>/politaktiv-2-5-3-2-cross-grid.tpl</template-path>
 			<wap-template-path>/politaktiv-2-5-3-2-cross-grid.wap.tpl</wap-template-path>
 			<thumbnail-path>/politaktiv-2-5-3-2-cross-grid.png</thumbnail-path> 
