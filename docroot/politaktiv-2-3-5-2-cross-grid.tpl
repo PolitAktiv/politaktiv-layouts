@@ -22,10 +22,11 @@
 					$processor.processColumn("column-4", "portlet-column-content")
 				</div>
 			</div>
-			<div class="portlet-layout row-fluid smartphone-only-content">
+			<div id="smartphone-only-content-container" class="portlet-layout row-fluid smartphone-only-content">
 				<div class="portlet-column span12" id="column-6">
 					$processor.processColumn("column-6", "portlet-column-content")
 				</div>
+				<p id="smartphone-only-help-text" class="hide-for-mobile-device"> Portlets können nun hier hinzugefügt werden! (Dieser Schriftzug verschwindet in der mobilen Ansicht) </p>
 			</div>		
 		</div>
 		<div class="portlet-column portlet-column-last width2of12right" id="column-5">
