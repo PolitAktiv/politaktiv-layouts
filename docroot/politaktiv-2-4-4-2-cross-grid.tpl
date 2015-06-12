@@ -23,11 +23,11 @@
 				</div>
 			</div>
 			
-			<div id="smartphone-only-content-container" class="portlet-layout row-fluid smartphone-only-content">
+			<div id="smartphone-exclusive-content-container" class="portlet-layout row-fluid">
 				<div class="portlet-column span12" id="column-6">
 					$processor.processColumn("column-6", "portlet-column-content")
 				</div>
-				<p id="smartphone-only-help-text" class="hide-for-mobile-device"> Portlets können nun hier hinzugefügt werden! (Dieser Schriftzug verschwindet in der mobilen Ansicht) </p>
+				<p id="smartphone-help-text"> Portlets können nun hier hinzugefügt werden! (Dieser Schriftzug verschwindet in der mobilen Ansicht) </p>
 			</div>
 					
 		</div>
