@@ -2,6 +2,10 @@ politaktiv-layouts
 ==================
 ReleaseNotes:
 
+6.2.1.12 - 12.06.2015
+--------------------
+* added container for smartphone-exclusive contents (pa-default-theme-support: 6.2.1.19)
+
 6.2.1.11 - 12.12.2014
 --------------------
 * added container helping to arrange the body of the tablet view
